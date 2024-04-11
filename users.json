@@ -1,17 +1,7 @@
 [
   {
-    "name": "test",
-    "age": 11,
-    "email": "test@test.com"
-  },
-  {
-    "name": "sergio",
-    "age": 18,
-    "email": "sergio@s.com"
-  },
-  {
-    "name": "S",
-    "age": 18,
-    "email": "sdas@sdas.com"
+    "name": "TestName",
+    "age": 31,
+    "email": "test@metropolia.fi"
   }
 ]
